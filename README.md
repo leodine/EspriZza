@@ -1,3 +1,3 @@
-REMOTE
+REMOTED
 # EspriZza
 hello....
