@@ -1,2 +1,2 @@
-LOCAL
+REMOTE
 # EspriZza
